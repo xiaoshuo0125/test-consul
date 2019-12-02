@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/consul-test/consul-test.iml" filepath="$PROJECT_DIR$/consul-test/consul-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consul-test/test-consul-server01/test-consul-server01.iml" filepath="$PROJECT_DIR$/consul-test/test-consul-server01/test-consul-server01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-ribbon/test-ribbon.iml" filepath="$PROJECT_DIR$/test-ribbon/test-ribbon.iml" />
+    </modules>
+  </component>
+</project>
